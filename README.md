@@ -4,8 +4,8 @@
 
 ## 参考资料
 
-1.  Borel R T. *Probability: Theory and Examples* [M]. 5th ed. Cambridge: Cambridge University Press, 2019.
-1.  孙振尧 (2025秋). 北京理工大学数学与统计学院 概率论 (双语) 课程板书 [EB/OL].
+1.  Durrett, R. (2019). Probability: Theory and Examples (5th ed.). Cambridge University Press.
+2.  孙振尧 (2025秋). 北京理工大学数学与统计学院 概率论 (双语) 课程板书 [EB/OL].
 
 ## 编排原则
 
